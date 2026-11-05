@@ -19,7 +19,7 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Chaitanya-coder-143/Excel-Sales-Analytics/blob/main/Profit%20%26%20Loss.pdf)_ & _[Months](https://github.com/Chaitanya-coder-143/Excel-Sales-Analytics/blob/main/Profit%20%26%20Loss%20(Months).pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Chaitanya-coder-143/Excel-Sales-Analytics/blob/main/Profit%20%26%20Loss%20(Year).pdf)_ & _[Months](https://github.com/Chaitanya-coder-143/Excel-Sales-Analytics/blob/main/Profit%20%26%20Loss%20(Months).pdf)_ 
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Chaitanya-coder-143/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Year%20(Markets).pdf)_
 
